@@ -1,0 +1,74 @@
+.Footer{
+    background-color: #FFC857;
+    text-align: center;
+    box-shadow: 0 4px 25px #676767;
+    padding-bottom: 30px;
+    background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+}
+
+.font-footer{
+    font-size: 28px;
+    font-family: 'Antonio', sans-serif;
+    font-weight: 700 !important;
+    color:black ;
+    margin-bottom: 40px;
+    background-color: white;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.center {
+    line-height: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+
+.textColorMobile{
+    color:white !important;
+    background: #875C74;
+    padding: 3px;
+    width: 80%;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 10px 5px #A790A5;
+    transform: rotate(-1deg);
+    font-family: 'Antonio', sans-serif;
+}
+
+.textColorLine{
+    color:white !important;
+    background: #426A5A;
+    padding: 3px;
+    width: 80%;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 10px 5px #7FB685;
+    transform: rotate(1deg);
+    font-family: 'Antonio', sans-serif;
+}
+
+.textColorFB{
+    color:white !important;
+    background: #084C61;
+    padding: 3px;
+    width: 97%;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 10px 5px #177E89;
+    transform: rotate(-1deg);
+    font-family: 'Antonio', sans-serif;
+}

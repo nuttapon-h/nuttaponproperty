@@ -1,0 +1,49 @@
+const LaviqData = [
+    {
+        id:1,
+        img:"1Tc8DADgvlX73ImJTuDwF4qCY9BaQVzvR",
+    },
+    {
+        id:2,
+        img:"1bgOoe8ZBw5GT-TCJRzTVOuJfSVwb3s86",
+    },
+    {
+        id:3,
+        img:"1bDlQkG-4wgD-SOP0rCsiTXY7aRgjx5oE",
+    },
+    {
+        id:4,
+        img:"1QZ2f1rrB0vxzFWTkGguuGa4y7q8aqOMW",
+    },
+    {
+        id:5,
+        img:"1MIYZCRqUqonRf8ptFEHKsw1F2Wy7Gl7k",
+    },
+    {
+        id:6,
+        img:"19jHPbFh_4Hkjmz8W4AzkhMJtJGYdCw4k",
+    },
+    {
+        id:7,
+        img:"11fxkl9rKx_wwyCKxBl4kILfExD0pHN6Z",
+    },
+    {
+        id:8,
+        img:"1EZYNF8oLgQr6c-bDfFJGLeS-GS1xD_CI",
+    },
+    {
+        id:9,
+        img:"18HtkdUGJqC6HeUqzW3FiDaRC7KzFa_rD",
+    },
+    {
+        id:10,
+        img:"1PDumFC615UmyhEgNiR2_gYqbzcQeTQUa",
+    },
+    {
+        id:11,
+        img:"1g_pesSEvueqxsaH-taa0i_Mob_LitD_B",
+    },
+    
+];
+
+export default LaviqData;

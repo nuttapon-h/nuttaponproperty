@@ -1,0 +1,51 @@
+.detailheader {
+  font-size: 27px;
+}
+
+.detailinfo {
+  font-size: 24px;
+}
+
+.pinkbox {
+  color: white !important;
+  background: #8A4F7D;
+  padding: 3px;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 10px 5px #e2e2e2;
+  transform: rotate(-1deg);
+  width: 280px;
+}
+
+.bluebox {
+  color: white !important;
+  background: #255C99;
+  padding: 3px;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 10px 5px #e2e2e2;
+  transform: rotate(1deg);
+  width: 280px;
+}
+
+.orangebox {
+  color: white !important;
+  background: #F58A07;
+  padding: 3px;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 10px 5px #e2e2e2;
+  transform: rotate(1deg);
+  width: 280px;
+}
+
+.greenbox {
+  color: white !important;
+  background: #119da4;
+  padding: 3px;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 10px 5px #e2e2e2;
+  transform: rotate(-1deg);
+  width: 300px;
+}

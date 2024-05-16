@@ -1,0 +1,35 @@
+.tv {
+  position: relative;
+  width: 90%;
+  height: 700px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: white;
+  margin-top: 10px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 1500px) {
+  .tv {
+    height: 650px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .tv {
+    height: 600px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .tv {
+    height: 550px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .tv {
+    height: 300px;
+  }
+}

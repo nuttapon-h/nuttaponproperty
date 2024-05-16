@@ -1,0 +1,34 @@
+.welcome{
+    background-color: #e2e2e2;
+    font-family: 'Dela Gothic One', cursive;
+    font-weight: 300;
+    font-size: 20px;
+    box-shadow: 0 4px 25px #676767;
+  }
+  
+  .fontColor{
+    color:white !important;
+    background: #F58A07;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 5px #F6AE2D;
+    transform: rotate(-1deg);
+  }
+  
+  .optionFontColor{
+    color:#808080 !important;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+  }
+  
+  @media screen and (max-width: 567px) {
+    .Home {
+      margin-top: 30px;
+    }
+  } 
+  
+  

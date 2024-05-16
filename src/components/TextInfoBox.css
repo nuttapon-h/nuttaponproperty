@@ -1,0 +1,14 @@
+.textInfoBox{
+    color:white !important;
+    background: #474056;
+    /* padding: 3px; */
+    width: 250px;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 5px #e2e2e2;
+    transform: rotate(1deg);
+    font-family: 'Antonio', sans-serif;
+    margin-bottom: 20px;
+}
